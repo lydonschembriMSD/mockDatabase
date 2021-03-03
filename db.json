@@ -1,31 +1,26 @@
-{
-"posts": [
-{
-"id": 1,
-"title": "Post 1"
-},
-{
-"id": 2,
-"title": "Post 2"
-},
-{
-"id": 3,
-"title": "Post 3"
-}
-],
-"comments": [
-{
-"id": 1,
-"body": "some comment",
-"postId": 1
-},
-{
-"id": 2,
-"body": "some comment",
-"postId": 1
-}
-],
-"profile": {
-"name": "typicode"
-}
-}
+[
+          {
+            id: 1,
+            title: 'Task 1',
+            description: 'description for task 1',
+            location: 'Valletta',
+            date: '1st of Jan',
+            time: '12:00'
+          },
+          {
+            id: 2,
+            title: 'Task 2',
+            description: 'description for task 2',
+            location: 'Birkirkara',
+            date: '2nd of Jan',
+            time: '14:00'
+          },
+          {
+            id: 3,
+            title: 'Task 3',
+            description: 'description for task 3',
+            location: 'Mosta',
+            date: '3rd of Jan',
+            time: '16:00'
+          }
+        ]
