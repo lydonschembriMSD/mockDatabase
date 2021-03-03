@@ -1,16 +1,28 @@
 {
-"posts": [
+"tasks": [
 {
 "id": 1,
-"title": "Post 1"
+"title": "task 1",
+"description": "description for task 1",
+"location": "Valletta",
+"date": "1st Jan",
+"time": "12:00"
 },
 {
 "id": 2,
-"title": "Post 2"
+"title": "task 2",
+"description": "description for task 2",
+"location": "Birkirkara",
+"date": "2nd Jan",
+"time": "14:00"
 },
 {
 "id": 3,
-"title": "Post 3"
+"title": "task 3",
+"description": "description for task 3",
+"location": "Fgura",
+"date": "3rd Jan",
+"time": "16:00"
 }
 ],
 "comments": [
