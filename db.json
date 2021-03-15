@@ -38,6 +38,14 @@
 			"location": "Qrendi",
 			"date": "5th Jan",
 			"time": "10:00"
+		},
+		{
+			"id": 6,
+			"title": "task 6",
+			"description": "description for task 6",
+			"location": "Imsida",
+			"date": "6th Jan",
+			"time": "08:00"
 		}
 	]
 }
