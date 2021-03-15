@@ -22,6 +22,14 @@
 			"location": "Fgura",
 			"date": "3rd Jan",
 			"time": "20:00"
+		},
+		{
+			"id": 4,
+			"title": "task 4",
+			"description": "description for task 4",
+			"location": "Mosta",
+			"date": "4th Jan",
+			"time": "22:00"
 		}
 	]
 }
