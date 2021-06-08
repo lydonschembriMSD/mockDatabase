@@ -1,51 +1,39 @@
 {
 	"tasks": [{
 			"id": 1,
-			"title": "task 1",
-			"description": "description for task 1",
-			"location": "Valletta",
-			"date": "1st Jan",
-			"time": "12:00"
+			"title": "lucky you",
+			"artist": "Eminem",
+			"image": "https://i.ytimg.com/vi/1arz9Q9qBas/maxresdefault.jpg"
 		},
 		{
 			"id": 2,
-			"title": "task 2",
-			"description": "description for task 2",
-			"location": "Birkirkara",
-			"date": "2nd Jan",
-			"time": "14:00"
+			"title": "humble",
+			"artist": "Kendrick Lamar",
+			"image": "https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png"
 		},
 		{
 			"id": 3,
-			"title": "task 3",
-			"description": "description for task 3",
-			"location": "Fgura",
-			"date": "3rd Jan",
-			"time": "20:00"
+			"title": "Bank Account",
+			"artist": "21 Savage",
+			"image": "https://cdns-images.dzcdn.net/images/cover/e31287495f374bc12d135a7ea344d2c5/500x500.jpg"
 		},
 		{
 			"id": 4,
-			"title": "task 4",
-			"description": "description for task 4",
-			"location": "Mosta",
-			"date": "4th Jan",
-			"time": "22:00"
+			"title": "Rockstar",
+			"artist": "Post Malone",
+			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/PostMaloneRockstar.jpg/220px-PostMaloneRockstar.jpg"
 		},
 		{
 			"id": 5,
-			"title": "task 5",
-			"description": "description for task 5",
-			"location": "Qrendi",
-			"date": "5th Jan",
-			"time": "10:00"
+			"title": "Rap God",
+			"artist": "Eminem",
+			"image": "https://upload.wikimedia.org/wikipedia/en/5/50/Eminem_Rap_God.png"
 		},
 		{
 			"id": 6,
-			"title": "task 6",
-			"description": "description for task 6",
-			"location": "Imsida",
-			"date": "6th Jan",
-			"time": "08:00"
+			"title": "Heat Waves",
+			"artist": "Glass Animals",
+			"image": "https://upload.wikimedia.org/wikipedia/en/b/b0/Glass_Animals_-_Heat_Waves.png"
 		}
 	]
 }
